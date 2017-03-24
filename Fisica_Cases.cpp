@@ -29,6 +29,7 @@ double dividio (double x, double y)
 int main () {
 
 double  x, y, a1, a2, a3, a4, a5;
+char repeti;
 
 /*  a1 = sumencio(x,y);
   a2 = restencio(x,y);
@@ -84,8 +85,6 @@ double  x, y, a1, a2, a3, a4, a5;
     cout<<"Error, bad input, quitting\n";
     break;
   }
-
-  char repeti;
 
   cout<<"Do you want to calculate another numbers? Y = YES/ N = NO \n";
 
